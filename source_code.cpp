@@ -5,6 +5,7 @@ using namespace std;
 
 class theatre
 {
+	//hii
 	string name;
 	string movie[5];
 	int seat_avl, fdista;
